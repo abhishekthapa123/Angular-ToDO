@@ -1,0 +1,41 @@
+nz-table{
+ 
+     /* margin-left: 200px;  */
+     background-color:seagreen;
+     
+}
+td{
+    color:black;
+    font: bold;
+}
+.maindiv{
+    height: 800px;
+    width:100vw;
+    background-color:royalblue;
+    position: relative;
+     padding-right:40px; 
+    
+    
+    }
+.containdiv{
+   
+   position:absolute;
+   margin-top:25px;
+   padding-left:500px;
+   height: fit-content;
+   
+   
+}
+h1{
+    text-align: center;
+}
+.logout{
+    background-color:cadetblue;
+  
+    position: relative;
+    float: right;
+
+}
+nz-table{
+    margin-top:30px;
+}
